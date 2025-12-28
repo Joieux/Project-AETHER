@@ -3,8 +3,8 @@
 **Status:** Prototype / Research Phase
 **Focus:** Distributed Systems, Edge AI, SIGINT, Autonomous Navigation
 
-![Project AETHER Architecture](https://github.com/Joieux/Project-AETHER/blob/main/aether.jpg?raw=true)
-*(Note: Ensure the file 'aether.jpg' is uploaded to your repo for this image to show)*
+![Project AETHER Architecture](https://github.com/Joieux/Project-AETHER/blob/main/aether.png?raw=true)
+
 
 ## 📄 [Click Here to View the Full Architecture & Roadmap (PDF)](./AETHER_Distributed_Robotics.pdf)
 
