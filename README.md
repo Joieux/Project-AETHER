@@ -1,7 +1,9 @@
 # Project AETHER  
-**Autonomous Edge-Tracking Hybrid Entity and Reconnaissance System**
+## System Overview
 
 ![Project AETHER – Distributed AI Robotics Architecture](docs/images/Project%20AETHER.png)
+**Autonomous Edge-Tracking Hybrid Entity and Reconnaissance System**
+
 
 Project AETHER is an ongoing personal research and build project exploring distributed AI robotics, edge computing, and autonomous systems with a security first by design approach.
 
