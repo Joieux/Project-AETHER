@@ -4,7 +4,7 @@
 
 ## System Overview
 
-![Project AETHER – Distributed AI Robotics Architecture](docs/images/Project%20AETHER.png)
+![Project AETHER – Distributed AI Robotics Architecture](docs/images/project-aether-architecture.png)
 *High-level view of the Project AETHER Hive Mind architecture and phased development model.*
 
 Project AETHER is an ongoing personal research and build project exploring distributed AI robotics, edge computing, and autonomous systems with a security first by design approach.
