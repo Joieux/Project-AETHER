@@ -1,6 +1,8 @@
 # Project AETHER  
 **Autonomous Edge-Tracking Hybrid Entity and Reconnaissance System**
 
+![Project AETHER – Distributed AI Robotics Architecture](docs/images/Project%20AETHER.png)
+
 Project AETHER is an ongoing personal research and build project exploring distributed AI robotics, edge computing, and autonomous systems with a security first by design approach.
 
 The core idea behind AETHER is a Hive Mind architecture that decouples a lightweight mobile robotic agent from heavy AI computation. Instead of embedding all intelligence directly on the robot, sensor data is streamed to a centralized compute base station that performs perception, reasoning, orchestration, and decision making.
